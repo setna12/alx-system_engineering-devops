@@ -1,1 +1,2 @@
-task 0. My name is Betty
+#!/bin/bash quote >betty
+pwd 
