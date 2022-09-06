@@ -1,1 +1,1 @@
-shell redirections
+script that displays a confused smiley 
